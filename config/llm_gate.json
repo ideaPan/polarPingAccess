@@ -1,0 +1,6 @@
+{
+  "model": "llama-3.1-8b-instant",
+  "enabled": true,
+  "timeout_ms": 300,
+  "provider_url": "https://api.groq.com/openai/v1/chat/completions"
+}
